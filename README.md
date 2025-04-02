@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Juan-retro/Juan-retro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm finishing my Master's in Bioinformatics at UEM while learning more about R, Python, Bash, Git, and other tools useful for bioinformatics.
+  
+- 🌱 Right now, I'm mastering R and focusing on data analysis. In the future, I aim to become proficient in Python and explore Machine Learning as it relates to bioinformatics.
+  
+- 🤝 I'd love to collaborate with a lab or company as a bioinformatician, particularly in biology and healthcare-related fields.
+  
+- 💬 Although I’m still building experience, I have a solid background in Biology and Chemistry, and I’m always happy to discuss anything in these areas.
+  
+- 📫 Feel free to contact me via the email provided on my GitHub profile or through LinkedIn.
+  
+- 👾 In my spare time, I enjoy reading, playing video games, and engaging in role-playing games (RPGs). A good mix of relaxation and creativity!
+  
